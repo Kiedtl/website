@@ -5,12 +5,12 @@ date = 2021-04-16
 template = "blog.html"
 +++
 
-![cursed_font](//tilde.team/~kiedtl/images/cursed/cursed.png)
+![cursed_font](//tilde.team/~kiedtl/images/cursed/cursed.webp)
 
 `cursed_font` is a 9x18 bitmapped font designed for low-DPI screens. It was
 originally an embiggened and monospace-ified version of Apple's Chicago
 font from System 6, but it also takes inspiration from many other fonts
-such as `bizcat`, `ttyp0`, `tamzen`, `scientifica`.
+such as `bizcat`, `ttyp0`, `tamzen`, and `scientifica`.
 
 <br>
 <img alt="demo" src="//tilde.team/~kiedtl/images/cursed/sdemo.png" />
@@ -26,23 +26,22 @@ inferior to the undotted variants, those are used instead.
 This was done mainly to ensure that any shoulder surfers would be mentally
 traumatised for life.
 
+<img style="border: 0.2em solid black; padding: 1em" src="//tilde.team/~kiedtl/images/cursed/zf.webp" alt="zF code" />
 <br>
 
-<img src="//tilde.team/~kiedtl/images/cursed/zf.png" alt="zF code" />
+<img class="inline" style="width: 30%; margin-right: 1.5em" align="left" src="//tilde.team/~kiedtl/images/cursed/yeß.png" alt="Yeß?" />
 
-<img align="right" src="//tilde.team/~kiedtl/images/cursed/yeß.png" alt="Yeß?" />
-
-`cursed_font` was designed to be **thick** and with a goal of being easy to
-read on poor monitors with minimal eye strain. Whether that goal has been
-reached is a matter of debate, as the author is nowhere near being a
-competent font designer.
+`cursed_font` was designed to be **thick** and with a goal of being easy to read
+on poor monitors with minimal eye strain. Whether that goal has been reached is
+a matter of debate, as the author is nowhere near being a competent font
+designer.
 
 <img src="//tilde.team/~kiedtl/images/cursed/big.png" alt="Large brackets" />
 
 <img src="//tilde.team/~kiedtl/images/cursed/charmap.png" alt="charmap" />
 <br>
 
-<img align="right" src="//tilde.team/~kiedtl/images/cursed/const.png" alt="__LINE__" />
+<img class="inline" style="width: 30%" align="right" src="//tilde.team/~kiedtl/images/cursed/const.png" alt="__LINE__" />
 
 `cursed_font` was also designed with viewing source code in mind.
 Parenthesis, brackets, and curly brackets all ascend and descend below the
@@ -57,8 +56,9 @@ the edges, much like a box-drawing character.
 <img src="//tilde.team/~kiedtl/images/cursed/sh.png" alt="rm -rf / --no-preserve-root" />
 
 <img src="//tilde.team/~kiedtl/images/cursed/alpha.png" alt="math" />
+<br>
 
-<img style="padding-bottom:15px;padding-right:20px" align="left"
+<img class="inline" align="right"
 	src="//tilde.team/~kiedtl/images/cursed/icons.png" alt="icons" />
 
 Glyphs have been added only for some of the more common mathematical
@@ -69,8 +69,6 @@ only a few. More will be added soon.
 
 <br>
 <img src="//tilde.team/~kiedtl/images/cursed/scrot.png" alt="screenshot" />
-<br>
-
 
 ## Download
 
